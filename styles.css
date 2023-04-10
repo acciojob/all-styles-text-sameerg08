@@ -3,9 +3,9 @@
 div{
 	width: 200px;
 	text-decoration-line: underline;
-	border-left:20px solid green;
+	border-left:5px rgb(128,0,128);
 	font-size:20px;
-	background-color: purple;
+	background-color: rgb(0,128,0);
 	padding: 10px;
 }
 }
